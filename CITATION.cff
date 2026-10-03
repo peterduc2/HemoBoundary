@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying HemoBoundary manuscript."
+
+title: "HemoBoundary"
+type: software
+
+authors:
+  - family-names: "Phan"
+    given-names: "Tran Huu Duc"
+    orcid: "https://orcid.org/0009-0006-2124-0806"
+
+repository-code: "https://github.com/peterduc2/HemoBoundary"
+
+preferred-citation:
+  type: article
+  title: "HemoBoundary: State Calibrated Fusion for Trial-Level fNIRS Temporal Boundary Estimation"
+  authors:
+    - family-names: "Phan"
+      given-names: "Tran Huu Duc"
+      orcid: "https://orcid.org/0009-0006-2124-0806"

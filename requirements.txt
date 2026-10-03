@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+scikit-learn
+h5py
+mne
+requests
+tqdm
+packaging
+curl-cffi
+threadpoolctl
