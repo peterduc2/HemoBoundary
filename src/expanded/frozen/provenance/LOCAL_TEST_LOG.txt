@@ -1,0 +1,13 @@
+.....................................                                    [100%]
+============================= slowest 10 durations =============================
+28.21s call     tests/test_complete_fixture.py::test_complete_saved_schema_default_models
+8.76s setup    tests/test_data.py::test_replay_and_serialization[train-1]
+1.27s call     tests/test_data.py::test_replay_cache_corruption_detected
+0.84s setup    tests/test_models.py::test_disjoint_group_folds
+0.78s call     tests/test_data.py::test_different_seeds
+0.65s call     tests/test_models.py::test_pipeline_group_and_resume
+0.65s call     tests/test_data.py::test_original_bank_mismatch_aborts
+0.51s call     tests/test_data.py::test_replay_and_serialization[train-1]
+0.49s call     tests/test_data.py::test_replay_and_serialization[train-2]
+0.49s call     tests/test_data.py::test_external_fixed_bank[BALINT-C01]
+37 passed in 47.29s

@@ -1,0 +1,104 @@
+{
+  "dataset": "von Luhmann et al. (2020), resting-state Dataset I",
+  "purpose": "Fixed selection of original unaugmented recordings; hashes are source-file identifiers, not participant results.",
+  "participants": [
+    {
+      "subject_id": "subject_033",
+      "directory": "Subj33",
+      "filename": "resting_hrf_100.snirf",
+      "sha256": "834a8ef4bb4642d08cbc0a221e78f58913a51a6c27cbf67c976314431682506b",
+      "channels": 21
+    },
+    {
+      "subject_id": "subject_034",
+      "directory": "Subj34",
+      "filename": "resting_hrf_100.snirf",
+      "sha256": "1b9653d52c6f2d96d70107cfc8186710cb4064839cc6a5700ba5b877e4b8ca04",
+      "channels": 26
+    },
+    {
+      "subject_id": "subject_036",
+      "directory": "Subj36",
+      "filename": "resting_hrf_100.snirf",
+      "sha256": "f158dce6986d4abbc20fa96e1387ca6dcf6d0f09a41fd45f191e2e284c601359",
+      "channels": 24
+    },
+    {
+      "subject_id": "subject_037",
+      "directory": "Subj37",
+      "filename": "resting_hrf_100.snirf",
+      "sha256": "75f29840140dd49ac00c6da5020d855639a33c0b93050892095845cdc6b5c707",
+      "channels": 23
+    },
+    {
+      "subject_id": "subject_038",
+      "directory": "Subj38",
+      "filename": "resting_hrf_100.snirf",
+      "sha256": "314d192e3b24c996e50c5c7476299b7113cd68087d2a01a095adbec1156b6bc0",
+      "channels": 26
+    },
+    {
+      "subject_id": "subject_039",
+      "directory": "Subj39",
+      "filename": "resting_hrf_100.snirf",
+      "sha256": "4f73520a8df1c37fcc012c66116e91c8087c805f10fb775ce4174f42275356b1",
+      "channels": 24
+    },
+    {
+      "subject_id": "subject_040",
+      "directory": "Subj40",
+      "filename": "resting_hrf_100.snirf",
+      "sha256": "502593307a100a92d9e983c59b2f691ace3208090fd7677ee35f50f8079697cc",
+      "channels": 29
+    },
+    {
+      "subject_id": "subject_041",
+      "directory": "Subj41",
+      "filename": "resting_hrf_100.snirf",
+      "sha256": "d3751724d048194d638d1b2ca1817b978bc75f351387bbe3b7c87576b52880a0",
+      "channels": 22
+    },
+    {
+      "subject_id": "subject_043",
+      "directory": "Subj43",
+      "filename": "resting_hrf_100.snirf",
+      "sha256": "dd1314539a0ca7a242b64e908c01b921e212ad05c9c05cd4b204e091c3c5585e",
+      "channels": 21
+    },
+    {
+      "subject_id": "subject_044",
+      "directory": "Subj44",
+      "filename": "resting_hrf_100.snirf",
+      "sha256": "ef87aaae400c7f0c83c008c6c9904bb6d21fd5b7f4e550f417341580f2b2ecea",
+      "channels": 21
+    },
+    {
+      "subject_id": "subject_046",
+      "directory": "Subj46",
+      "filename": "resting_hrf_100.snirf",
+      "sha256": "d096312a0c02f79fd5a35531c7a53e5d8fa1e237aab514ab44ba22b76226705e",
+      "channels": 25
+    },
+    {
+      "subject_id": "subject_047",
+      "directory": "Subj47",
+      "filename": "resting_hrf_100.snirf",
+      "sha256": "281cff09c92765d32ac5fe8aaa0039842f2847c463e2f867ec509529039481b7",
+      "channels": 22
+    },
+    {
+      "subject_id": "subject_049",
+      "directory": "Subj49",
+      "filename": "resting_hrf_100.snirf",
+      "sha256": "c8f8dec547a717c8e32000b6b47a0d3b093f1942d58ec53ada942cbc82f9cf5f",
+      "channels": 24
+    },
+    {
+      "subject_id": "subject_051",
+      "directory": "Subj51",
+      "filename": "resting_hrf_100.snirf",
+      "sha256": "9cd263f99549c65679c8fc19700e2d07c8f9d19213a121d784f737a9f40b9efe",
+      "channels": 26
+    }
+  ]
+}

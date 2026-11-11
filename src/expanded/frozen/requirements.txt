@@ -1,0 +1,14 @@
+# Core numerical/API versions pinned. The launcher records all resolved transitive
+# versions; use resolved_requirements.txt to recreate the exact environment later.
+numpy==2.2.6
+scipy==1.15.3
+pandas==2.2.3
+scikit-learn==1.6.1
+h5py==3.13.0
+mne==1.9.0
+nilearn==0.12.1
+mne-nirs==0.7.1
+matplotlib==3.10.3
+platformdirs==4.3.8
+pytest==8.3.5
+hrfunc @ https://files.pythonhosted.org/packages/c1/d1/663efc848536d6edc32f4046ae35a2de1baad311277ed013fb98876872f8/hrfunc-1.3.1-py3-none-any.whl#sha256=88853c7d29c139ebad1c6524ec91250663b69a0b985d94426e0d6d2e27e8059e

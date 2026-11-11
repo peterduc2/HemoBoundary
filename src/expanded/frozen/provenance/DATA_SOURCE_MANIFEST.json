@@ -1,0 +1,210 @@
+{
+  "original_external_runner_sha256": "2b808af2e7ae2c951dc05faca6cbb1c496c31c2a3bb951443e58fe761242e84d",
+  "refined_engine_sha256": "684e799c823875cf3cd66f395175522a18ae19312e4731bc82c7cd72a00969d2",
+  "n4_engine_sha256": "307da507d20b9807123270b6c4fc341d7c4ebdcfebcaf6556f325c59f497ad8f",
+  "functions": [
+    {
+      "name": "load_npz",
+      "original_file": "REFINED_ENGINE_SOURCE.py",
+      "start": 78,
+      "end": 85,
+      "sha256": "5cf608394246112eedc1db5df918234ca55f1afbe7a14a7125de76c1b2ecbbc4"
+    },
+    {
+      "name": "NoiseProfile",
+      "original_file": "REFINED_ENGINE_SOURCE.py",
+      "start": 87,
+      "end": 93,
+      "sha256": "848a8d9b6c584d2c1b57eb1b6df3a1c14305027d2f12986412d66e4317bef009"
+    },
+    {
+      "name": "safe_lag1",
+      "original_file": "REFINED_ENGINE_SOURCE.py",
+      "start": 95,
+      "end": 101,
+      "sha256": "35a25cd7164d3433ad4d93d23798fc5aa93019b1498bc91ce886832171b351ab"
+    },
+    {
+      "name": "estimate_noise_profile",
+      "original_file": "REFINED_ENGINE_SOURCE.py",
+      "start": 103,
+      "end": 122,
+      "sha256": "96532b1027f3ee0554eb4d39b74ec8eb0a5388d5032a73b851a9c171e2aa99ea"
+    },
+    {
+      "name": "ar_noise",
+      "original_file": "REFINED_ENGINE_SOURCE.py",
+      "start": 124,
+      "end": 134,
+      "sha256": "ae40d58e4feb22ebf0e7111b968c0637d26d4a87ab3bc7f9a3337a3ae8ed91bf"
+    },
+    {
+      "name": "piecewise_shape",
+      "original_file": "REFINED_ENGINE_SOURCE.py",
+      "start": 136,
+      "end": 155,
+      "sha256": "fb00fd6e17847bcabcd07c068237d0549c0445dc9406c02dc1aee2c3febbe7e3"
+    },
+    {
+      "name": "synthetic_trial",
+      "original_file": "REFINED_ENGINE_SOURCE.py",
+      "start": 157,
+      "end": 192,
+      "sha256": "b583196d58ba54f4400edb0574459908ffc38a97235039132c74d4f016aefec1"
+    },
+    {
+      "name": "baseline_z",
+      "original_file": "REFINED_ENGINE_SOURCE.py",
+      "start": 194,
+      "end": 201,
+      "sha256": "d3a64c7704e80ceb7ec044478766cb158af04d112110deacad9e89e5d4f652d8"
+    },
+    {
+      "name": "evidence",
+      "original_file": "REFINED_ENGINE_SOURCE.py",
+      "start": 203,
+      "end": 220,
+      "sha256": "a11be85d600ef69e21fbd6ff698a88d484dac84ca804b4b8145d13b0f8b76a64"
+    },
+    {
+      "name": "whole_vector",
+      "original_file": "REFINED_ENGINE_SOURCE.py",
+      "start": 222,
+      "end": 223,
+      "sha256": "98506ce023dd7524fdb0193d09a974386d9aa21935f254f51c7e83ac69584cca"
+    },
+    {
+      "name": "state_features",
+      "original_file": "REFINED_ENGINE_SOURCE.py",
+      "start": 225,
+      "end": 230,
+      "sha256": "82cd21db6ac55c2fb2796fc03172b9a89ea443740f486e2947fbe883a670348d"
+    },
+    {
+      "name": "channel_anti",
+      "original_file": "REFINED_ENGINE_SOURCE.py",
+      "start": 232,
+      "end": 235,
+      "sha256": "f2df98648eddcb6f393d58f48a58bd7fe5b19a5092543659531ca6c82b8ed0a3"
+    },
+    {
+      "name": "_decode_str_array",
+      "original_file": "N4_ENGINE_SOURCE.py",
+      "start": 1172,
+      "end": 1180,
+      "sha256": "44dc9ebd8c89ce910179e698e6b06ab4552342decac67da99908a5588cc450e7"
+    },
+    {
+      "name": "_h5_dataset_inventory",
+      "original_file": "N4_ENGINE_SOURCE.py",
+      "start": 1183,
+      "end": 1197,
+      "sha256": "681123e25fee1e45abbc7fd13035de328befab94cb9e3dbee2d26c04469a39eb"
+    },
+    {
+      "name": "_all_datasets",
+      "original_file": "N4_ENGINE_SOURCE.py",
+      "start": 1200,
+      "end": 1206,
+      "sha256": "6770f71b8f5c3769124073ceb11887e9e5e9a97c6b1009f02d65a7b92631af92"
+    },
+    {
+      "name": "_score_name",
+      "original_file": "N4_ENGINE_SOURCE.py",
+      "start": 1209,
+      "end": 1211,
+      "sha256": "35570f5caf5054a643d2b5748a59bb8f73cd1a25a340dc41652bf5d135ddfae8"
+    },
+    {
+      "name": "_find_time_dataset",
+      "original_file": "N4_ENGINE_SOURCE.py",
+      "start": 1214,
+      "end": 1235,
+      "sha256": "d87a397e894035b3429736e8070cfc87db37ff5f5c714272ec3d538d951f8856"
+    },
+    {
+      "name": "_find_participant_dataset",
+      "original_file": "N4_ENGINE_SOURCE.py",
+      "start": 1238,
+      "end": 1303,
+      "sha256": "32aa726b7c4e80f270e11d95cd199d7b32f19c57ea7e3106be4e34c7a50c7005"
+    },
+    {
+      "name": "_normalize_trial_channel_time",
+      "original_file": "N4_ENGINE_SOURCE.py",
+      "start": 1306,
+      "end": 1330,
+      "sha256": "22c8bb938de690309e63608136a17106b14884ee2a5fe4bf960220725924d3db"
+    },
+    {
+      "name": "_find_separate_chromophore_pair",
+      "original_file": "N4_ENGINE_SOURCE.py",
+      "start": 1333,
+      "end": 1371,
+      "sha256": "d6187775fea55b8ca00dc09e6829be5a795070530793490c018b9d4104ead519"
+    },
+    {
+      "name": "_find_channel_names",
+      "original_file": "N4_ENGINE_SOURCE.py",
+      "start": 1374,
+      "end": 1391,
+      "sha256": "a9f2e2a17bdf35328d9e865132026a92d55cb3be3c955092e7dc51c3cf1212c8"
+    },
+    {
+      "name": "_normalize_combined_epochs",
+      "original_file": "N4_ENGINE_SOURCE.py",
+      "start": 1394,
+      "end": 1410,
+      "sha256": "a91b8169126660967cc9ec4dd524b661529b2cd3a043d53b2e2f744b72bf45c5"
+    },
+    {
+      "name": "_split_combined_by_channel_names",
+      "original_file": "N4_ENGINE_SOURCE.py",
+      "start": 1413,
+      "end": 1485,
+      "sha256": "df68feb73580677e4b43dafe0b2dd4354e7a16bc84219bbb7c4d431419d6bb55"
+    },
+    {
+      "name": "_load_flat_hdf5",
+      "original_file": "N4_ENGINE_SOURCE.py",
+      "start": 1488,
+      "end": 1531,
+      "sha256": "bb1dd9600df07ef84139cd8a75a5577bb68ac64ac2849d3adba3560b79b58723"
+    },
+    {
+      "name": "_participant_group_candidates",
+      "original_file": "N4_ENGINE_SOURCE.py",
+      "start": 1534,
+      "end": 1545,
+      "sha256": "e6c33d8bee46427393c22d945859df6853164ac92a201aaf264e67ff14e0283a"
+    },
+    {
+      "name": "_load_grouped_hdf5",
+      "original_file": "N4_ENGINE_SOURCE.py",
+      "start": 1548,
+      "end": 1693,
+      "sha256": "f09f838a117cf256cc6e5cb8a5063a4ed59ee98d0a6677df3357638fa45b0dc3"
+    },
+    {
+      "name": "load_external_hdf5",
+      "original_file": "N4_ENGINE_SOURCE.py",
+      "start": 1696,
+      "end": 1715,
+      "sha256": "75344a23ef0e8781e513875aa5beee73a9fd473120520d4a78626b51176e8d61"
+    },
+    {
+      "name": "_participant_arrays",
+      "original_file": "N4_ENGINE_SOURCE.py",
+      "start": 1722,
+      "end": 1763,
+      "sha256": "69fcc8df993c0da3ea8d37220406c2580c0c43b311a804b29df4fe4468be91aa"
+    },
+    {
+      "name": "noise_profile_from_external",
+      "original_file": "N4_ENGINE_SOURCE.py",
+      "start": 1766,
+      "end": 1800,
+      "sha256": "db2b25cbeaabd07194f11e107b72a3b22207355fef008666b0f57b38bad19602"
+    }
+  ]
+}
